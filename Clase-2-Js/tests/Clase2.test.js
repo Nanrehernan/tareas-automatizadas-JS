@@ -75,7 +75,7 @@ describe('🔷Ejercicios Esenciales🔷', function() {
 
   describe('devolverString(str)', function() {
     it('Deberia devolver el string provisto', function() {
-      let string = 'Numen';
+      let string = 'Pepe';
       expect(devolverString(string)).toBe(string);
     });
   });
