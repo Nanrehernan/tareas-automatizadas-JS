@@ -14,10 +14,7 @@ ni la doble barra del comentario, ni tu respuesta). Después presionar enter, as
 "4" - 2 =
 "4px" - 2 =
 7 / 0 =
-parseInt("09") =
-[3]+[3]-[10] =
 3>2>1 =
-[] == ![] = 
 12 + ""  =  
 "15" * 2  = 
 "15" - "11" =
