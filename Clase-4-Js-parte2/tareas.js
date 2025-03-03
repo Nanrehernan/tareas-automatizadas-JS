@@ -140,7 +140,7 @@ function agregarMetodoCalculoDescuento(producto) {
   // Tu código:
   return {
     ...producto,
-    calcularPrecioDescuento: function() {
+    calcularPrecioDescuento: () => {
       return producto["precio"] * (1 - producto["porcentajeDeDescuento"]);
     }
   }
